@@ -514,9 +514,6 @@ sudo systemctl restart jenkins
 
    You can access Node Exporter metrics in Prometheus.
 
-2. **Configure Prometheus Plugin Integration:**
-
-   Integrate Jenkins with Prometheus to monitor the CI/CD pipeline.
 
    **Prometheus Configuration:**
 
